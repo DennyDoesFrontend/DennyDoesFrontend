@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DennyDoesFrontend
 - 👀 I’m interested in ... Front end Web Development
-- 🌱 I’m currently learning ... JavaScript
+- 🌱 I’m currently learning ... React
 - 💞️ I’m looking to collaborate on ... Web projects
 - 📫 How to reach me ... denzelashiteyfd@gmail.com
 
