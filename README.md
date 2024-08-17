@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DennyDoesFrontend
+- 👋 Hi, I’m Denzel
 - 👀 I’m interested in ...  Web App Development
 - 🌱 I’m currently learning ... React Native
 - 💞️ I’m looking to collaborate on ... Web App projects
