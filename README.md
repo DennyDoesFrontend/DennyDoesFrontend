@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DennyDoesFrontend
-- 👀 I’m interested in ... Front end Web Development
-- 🌱 I’m currently learning ... React
-- 💞️ I’m looking to collaborate on ... Web projects
+- 👀 I’m interested in ...  Web App Development
+- 🌱 I’m currently learning ... React Native
+- 💞️ I’m looking to collaborate on ... Web App projects
 - 📫 How to reach me ... denzelashiteyfd@gmail.com
 
 <!---
