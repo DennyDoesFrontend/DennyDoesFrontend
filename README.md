@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Denzel
-- 👀 I’m interested in ...  Web App Development
-- 🌱 I’m currently learning ... React Native
+- 👀 I’m interested in ...  Front end Development
+- 🌱 I’m currently learning ... React 
 - 💞️ I’m looking to collaborate on ... Web App projects
 - 📫 How to reach me ... denzelashiteyfd@gmail.com
 
